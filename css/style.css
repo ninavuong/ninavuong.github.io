@@ -318,7 +318,7 @@ header .intro-text {
   padding: 70px;
 }
 #gallery .gallery-item {
-  /* margin: 0 -15px; */
+  margin: 0 -15px;
 }
 /* Team Section */
 #team {
